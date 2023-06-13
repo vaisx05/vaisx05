@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thangarajk176@gmail.com**
 
-- ⚡ Fact **"Hack is a mindset."**
+- ⚡ Fact **"You're Not Lost, You're Here"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
