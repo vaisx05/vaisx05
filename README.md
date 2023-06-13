@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Malware Development**
 
-- 🤝 I’m looking for help with **RAT**
+- 🤝 I’m looking for help with **RAT Malware**
 
 - 💬 Ask me about **Web app pentesting, Adobe Photoshop, Linux, Networking**
 
