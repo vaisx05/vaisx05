@@ -6,17 +6,16 @@
 
 - 🔭 I’m currently working on [Sarapambu[RAT]](https://github.com/vaisx05/SarapambuRAT)
 
-- 🌱 I’m currently learning **Malware Development**
-
-- 🤝 I’m looking for help with **RAT Malware**
+- 🌱 I’m currently learning **Scripting**
 
 - 💬 Ask me about **Web app pentesting, Adobe Photoshop, Linux, Networking**
 
 - 📫 How to reach me **thangarajk176@gmail.com**
 
-- ⚡ Fact **"You're Not Lost, You're Here"**
+- ⚡ **"You're Not Lost, You're Here"**
 
 - 🕷️ **Spiderman** Fanboy
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaishakt05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishakt05" height="30" width="40" /></a>
