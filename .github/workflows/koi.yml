@@ -22,7 +22,7 @@ jobs:
 
       - uses: yalongwastaken/git-koi@v1
         with:
-          body: "#ffffff"
+          body: white
           output-dir: koi
           token: ${{ secrets.GITHUB_TOKEN }}
 
